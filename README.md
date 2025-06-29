@@ -27,7 +27,7 @@ Click [here]https://authentication-onc1.onrender.com/) to go Open app
 ## Installation
 
 Repo link 
-https://github.com/VishwasDixit/AuthenticationSystemCn.git
+https://github.com/VishwasDixit/cnAuthentication
 
 
 > ***Install project with npm***       
